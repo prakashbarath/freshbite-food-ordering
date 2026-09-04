@@ -1,4 +1,11 @@
-# 🍔 FreshBite - Online Food Ordering Platform
+## 📱 Mobile App & Live Demo
+
+- 🌐 **Live Web Application:** [FreshBite Web](https://prakashbarath.github.io/freshbite-food-ordering/)
+- 📦 **Download Android App:** [FreshBite v1.0.0 APK](https://github.com/prakashbarath/freshbite-food-ordering/releases/latest)
+
+> Built with HTML5, CSS3, JavaScript, and packaged natively for Android using Capacitor.
+>
+> # 🍔 FreshBite - Online Food Ordering Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-username.github.io/freshbite-food-ordering/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/your-username/freshbite-food-ordering)
